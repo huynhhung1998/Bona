@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .bg-cine-dark {
+    background-color: #000000; /* màu tối tùy ý */
+  }
+
+  .text-cine-red {
+    color: #ff4c4c;
+  }
+
+  .bg-cine-gray {
+    background-color: #2a2a3f;
+  }
+
+  /* các class custom khác nếu cần */
+}
